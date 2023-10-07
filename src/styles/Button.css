@@ -1,0 +1,28 @@
+button {
+   
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: row !important;
+
+
+    background-color: #f8f9fa !important;
+    border: 1px solid #f8f9fa !important;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 8px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+/* .button:hover {
+    border: 1px solid #afb6bb;
+} */
+
+/* @Dani depois tenta usar ::placeholder ou na classe principal do input ou no proprio input, testei aqui no meu e ficou Input::placeholder */

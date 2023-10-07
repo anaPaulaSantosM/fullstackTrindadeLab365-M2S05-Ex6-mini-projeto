@@ -1,0 +1,46 @@
+
+.Header {
+    display: flex;
+    float: right;
+    width: 100%;
+    justify-content:space between;
+    align-items: right;
+}
+
+.container {
+    display: flex;
+    margin-left: 100px;
+    width: 1300px;
+}
+  ul {
+    display: flex;
+    width: 100%;
+    justify-content:right;
+    height: 35px;
+  }
+
+  li {
+    height: 20px;
+    list-style-type: none;
+    
+}
+
+.li2 {
+          padding:10px;
+
+  }
+
+  img {
+    border-radius: 50%;
+    width: 32px;
+    margin: 6px 0 0 0 !important;
+  }
+
+  svg {
+    margin-top: 10px;
+    width: 40px !important;
+  }
+
+  a {
+    text-decoration: none;
+  }
